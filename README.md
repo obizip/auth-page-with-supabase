@@ -1,5 +1,8 @@
 # Authentication Page with Next.js and Supabase
 
+## Screen Shot
+![](screen_shot.png)
+
 ## Features
 - Next.js
 - tailwindcss
